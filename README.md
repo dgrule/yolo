@@ -4,7 +4,7 @@ What could go wrong, you only live once.
 
 ## Instructions
 
-Take a look at the `js` folder in the top-level. It should have some JavaScript function in standalone files. Some work, some may have been written under an extreme lack of sleep.
+Take a look at the `js` folder in the top-level. It should have some JavaScript function in standalone files. Some work may have been written under an extreme lack of sleep.
 
 Your mission is to fix the broken code and if you feel brave, add your own new functions.
 
