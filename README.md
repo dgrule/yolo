@@ -1,6 +1,5 @@
 # YOLO ![Build Status](https://github.com/dgrule/yolo/actions/workflows/jest.yml/badge.svg) [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/dgrule/yolo/badge)](https://securityscorecards.dev/viewer/?uri=github.com/dgrule/yolo)
 
-
 What could go wrong, you only live once. Said every developer I know.
 
 ## Instructions
