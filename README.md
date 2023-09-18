@@ -1,6 +1,6 @@
 # YOLO ![Build Status](https://github.com/dgrule/yolo/actions/workflows/jest.yml/badge.svg)
 
-What could go wrong, you only live once.
+What could go wrong, you only live once. Said every developer I know.
 
 ## Instructions
 
