@@ -1,0 +1,14 @@
+{
+  "name": "yolo",
+  "version": "1.0.0",
+  "description": "YOLO Project",
+  "repository": "git@github.com:dgrule/yolo.git",
+  "author": "Christine Abernathy <ca.abernathy@f5.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
